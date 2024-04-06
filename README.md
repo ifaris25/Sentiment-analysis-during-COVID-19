@@ -25,9 +25,3 @@ Sentiment analysis has been performed using the VADER (Valence Aware Dictionary 
 
 **Result Visualization:**
 Visualizations have been created to showcase the distribution of sentiment labels, word clouds for positive and negative sentiments, and daily sentiment trends.
-
-
-
-
-
-
